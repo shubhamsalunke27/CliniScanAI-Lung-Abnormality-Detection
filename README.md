@@ -35,12 +35,12 @@ It integrates:
 
 ### 🏠 Home Page
 
-![Home Page](output/home.jpeg)
+![Home Page](output/home.png)
 
 
 ### 📊 Model Output
 
-![Output](output/output.jpeg)
+![Output](output/output.png)
 
 ---
 
@@ -69,7 +69,7 @@ To assist radiologists by building an AI system that:
 ---
 ### 🏗️ System Architecture
 
-![Architecture](output/system_arrchitecture.jpeg)
+![Architecture](output/system_arrchitecture.png)
 
 ---
 
